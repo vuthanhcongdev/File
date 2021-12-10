@@ -43,7 +43,8 @@ namespace CRUD_File.Controllers
         [HttpGet("getbyanobject")]
         public Student GetByAnObject([FromQuery] Student studentEntity)
         {
-            var student = dataObjectList.Find(x => x.Id == studentEntity.Id && x.Name == studentEntity.Name);
+            var student = dataObjectList.Find(x => x.Id == studentEntity.Id && x.Name == studentEntity.Name
+            && x.Gender == studentEntity.Gender && x.Class == studentEntity.Class);
             if (student == null)
             {
                 return null;
