@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "Name": "ref",
+    "Gender": 1,
+    "Class": 32
+  },
+  {
+    "Id": 2,
+    "Name": "Hook",
+    "Gender": 1,
+    "Class": 56
+  },
+  {
+    "Id": 4,
+    "Name": "Hoang",
+    "Gender": 1,
+    "Class": 32
+  },
+  {
+    "Id": 5,
+    "Name": "Hoang",
+    "Gender": 1,
+    "Class": 32
+  },
+  {
+    "Id": 6,
+    "Name": "Hoang",
+    "Gender": 1,
+    "Class": 32
+  },
+  {
+    "Id": 7,
+    "Name": "wer",
+    "Gender": 1,
+    "Class": 49
+  },
+  {
+    "Id": 8,
+    "Name": "Dada",
+    "Gender": 0,
+    "Class": 39
+  },
+  {
+    "Id": 9,
+    "Name": "Hook",
+    "Gender": 1,
+    "Class": 45
+  },
+  {
+    "Id": 10,
+    "Name": "Mes",
+    "Gender": 1,
+    "Class": 56
+  }
+]

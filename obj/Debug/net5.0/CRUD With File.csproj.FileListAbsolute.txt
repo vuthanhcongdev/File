@@ -1,0 +1,30 @@
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\appsettings.Development.json
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\appsettings.json
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.exe
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.deps.json
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.runtimeconfig.json
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.runtimeconfig.dev.json
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\ref\CRUD With File.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\CRUD With File.pdb
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\myProjects\Intern\CRUD With File\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.csproj.AssemblyReference.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.GeneratedMSBuildEditorConfig.editorconfig
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.AssemblyInfoInputs.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.AssemblyInfo.cs
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.csproj.CoreCompileInputs.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.MvcApplicationPartsAssemblyInfo.cs
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.MvcApplicationPartsAssemblyInfo.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\staticwebassets\CRUD With File.StaticWebAssets.Manifest.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\staticwebassets\CRUD With File.StaticWebAssets.xml
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\scopedcss\bundle\CRUD With File.styles.css
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.RazorTargetAssemblyInfo.cache
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.csproj.CopyComplete
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.dll
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\ref\CRUD With File.dll
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.pdb
+E:\myProjects\Intern\CRUD With File\obj\Debug\net5.0\CRUD With File.genruntimeconfig.cache
